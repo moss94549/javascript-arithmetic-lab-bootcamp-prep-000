@@ -10,7 +10,12 @@ function divideBy3()
   number /=3
 }
 
-consol.log(number)
+console.log(number)
+
+add5()
+console.log(number)
+divideBy3()
+console.log(number)
 
 
 
