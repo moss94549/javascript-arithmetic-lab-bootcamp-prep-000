@@ -17,5 +17,18 @@ console.log(number)
 divideBy3()
 console.log(number)
 
+inc(n)
+{
+  n++
+  return n
+}
+
+dec(n)
+{
+  n--
+  return n
+}
+
+}
 
 
